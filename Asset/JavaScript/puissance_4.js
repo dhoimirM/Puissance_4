@@ -6,8 +6,8 @@ let gameOver = false
 let modeCpu = false
 let player = "";
 let cells = document.querySelectorAll(".cell");
-let coinsSound = new Audio ("./son/jeton.mp3")
-let victorySound = new Audio ("./son/victoire.mp3")
+let coinsSound = new Audio ("../son/jeton.mp3")
+let victorySound = new Audio ("../son/victoire.mp3")
 
 
 //*****************************Fonction Jeu**********************************************
